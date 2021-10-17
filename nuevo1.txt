@@ -1,0 +1,1 @@
+Antes de poder realizar cualquier operación de lectura/escritura hay que abrir el archivo con open() indicando su ubicación y nombre seguido, opcionalmente, por el modo o tipo de operación a realizar y la codificación que tendrá el archivo.
